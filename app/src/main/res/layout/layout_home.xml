@@ -9,7 +9,6 @@
    <ImageView
        android:layout_width="match_parent"
        android:layout_height="90sp"
-       marg
        android:src="@drawable/ic_launcher_background"/>
 
 
